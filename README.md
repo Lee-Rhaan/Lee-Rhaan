@@ -1,4 +1,6 @@
 # 👋 Hi, I'm @Lee-Rhaan
+|Java|HTML|CSS|C#|
+|---|---|---|---|
 ## Summary:
 - 🔥 _I’m interested in **Software Development**._
 - 🌱 _I’m a **Java Developer** with a background in **HTML & CSS, C#**._

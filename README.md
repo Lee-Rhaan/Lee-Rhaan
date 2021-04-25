@@ -1,8 +1,8 @@
 # 👋 Hi, I'm @Lee-Rhaan
 ## Summary:
-- 👀 I’m interested in **Software Development**.
-- 🌱 I’m a **Java Developer** with a background in **HTML & CSS, C#**.
-- 💞️ I’m looking to collaborate on any project that will improve my skills.
+- 👀 _I’m interested in **Software Development**._
+- 🌱 _I’m a **Java Developer** with a background in **HTML & CSS, C#**._
+- 💞️ _I’m looking to collaborate on any project that will improve my skills._
 ### Contact:
 - 📫 Email: rhaanking@gmail.com
 - 👀 LinkedIn: linkedin.com/in/lee-rhaan-king-08a89a209

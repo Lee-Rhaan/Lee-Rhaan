@@ -9,6 +9,7 @@ console.log
 ```
 ---
 ## Summary:
+>Get to know me:
 - 🔥 _I’m interested in **Software Development**._
 - 🌱 _I’m a **Java Developer** with a background in **HTML & CSS, C#**._
 - 💞️ _I’m looking to collaborate on any project that will improve my skills._

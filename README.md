@@ -6,6 +6,7 @@
 - 🌱 _I’m a **Java Developer** with a background in **HTML & CSS, C#**._
 - 💞️ _I’m looking to collaborate on any project that will improve my skills._
 ### Contact:
+>Get in touch with me so we can collaborate
 - 📫 _**Email:**_ rhaanking@gmail.com
 - ☑️ _**LinkedIn:**_ linkedin.com/in/lee-rhaan-king-08a89a209
 - ☑️ _**Instagram:**_ instagram.com/crackchest/

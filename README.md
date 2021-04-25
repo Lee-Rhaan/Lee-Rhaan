@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lee-Rhaan
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Java(i'm a junior programmer).
+- 🌱 I’m a Java Developer with a background in HTML & CSS, C#.
 - 💞️ I’m looking to collaborate on any program that will improve my skills.
 - 📫 How to reach me email: rhaanking@gmail.com
 

@@ -5,8 +5,8 @@
 - 💞️ _I’m looking to collaborate on any project that will improve my skills._
 ### Contact:
 - 📫 _**Email:**_ rhaanking@gmail.com
-- ☑️ _**LinkedIn:**_ linkedin.com/in/lee-rhaan-king-08a89a209
-- ☑️ _**Instagram:**_ instagram.com/crackchest/
+- ☑️ _**LinkedIn:**_ [Lee-Rhaan](linkedin.com/in/lee-rhaan-king-08a89a209)
+- ☑️ _**Instagram:**_ [CrackChest](instagram.com/crackchest/)
 
 <!---
 Lee-Rhaan/Lee-Rhaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 # 👋 Hi, I'm @Lee-Rhaan
 |Java|HTML|CSS|C#|
+|Spring boot|Angular|MySQL|Postman|
 |---|---|---|---|
 
 ```javascript
@@ -12,6 +13,7 @@ console.log
 >Get to know me:
 - 🔥 _I’m interested in **Software Development**._
 - 🌱 _I’m a **Java Developer** with a background in **HTML & CSS, C#**._
+- 🗄 _I have experience working with Spring boot, Angular, MySQL and Postman.
 - 💞️ _I’m looking to collaborate on any project that will improve my skills._
 ---
 ### Contact:

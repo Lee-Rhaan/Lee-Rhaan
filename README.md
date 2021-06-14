@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @Lee-Rhaan
-|Java|HTML|CSS|C#|
-|---|---|---|---|
+|Java|HTML|CSS|C#|Maven|
+|---|---|---|---|---|
 
 |Spring boot|Angular|MySQL|Postman|
 |---|---|---|---|

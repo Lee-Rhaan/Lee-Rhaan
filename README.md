@@ -33,6 +33,12 @@ console.log
 ![Screenshot (109)](https://user-images.githubusercontent.com/81378094/118378001-fc8f3200-b5d0-11eb-9719-3816f2bc80a0.png)
 ---
 
+|ASP.NET Core MVC & .NET Framework|
+|---|
+
+![Screenshot (198)](https://user-images.githubusercontent.com/81378094/127919308-a9de17c6-4cbf-4b96-b8d8-287fd66cb00b.png)
+---
+
 |Spring boot & Angular|
 |---|
 

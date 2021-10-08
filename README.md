@@ -27,6 +27,12 @@ console.log
 ### My Favourate Projects:
 >The projects I liked working on the most:
 
+|Spring Boot & Angular|
+|---|
+
+![Screenshot (4)](https://user-images.githubusercontent.com/81378094/136539344-5bc1d13a-4c52-477b-ace1-e143c0f341f4.png)
+---
+
 |Spring boot & Angular|
 |---|
 
@@ -43,12 +49,6 @@ console.log
 |---|
 
 ![Screenshot (155)](https://user-images.githubusercontent.com/81378094/123544672-a6c3b300-d754-11eb-83df-64af0e679a32.png)
----
-
-|Swing Gui|
-|---|
-
-![Screenshot (116)](https://user-images.githubusercontent.com/81378094/118378010-0add4e00-b5d1-11eb-898d-9b1997ce792c.png)
 
 <!---
 Lee-Rhaan/Lee-Rhaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
